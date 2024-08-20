@@ -15,4 +15,5 @@ _Arguments:_
 - **plotall** [default = TRUE]: If true, plot the fits.  
 - **savePlot** [default = FALSE]: If true, print the plot as picture.
 
+Example of plotall output
 ![](example_fit.png)
