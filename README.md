@@ -13,4 +13,6 @@ _Arguments:_
 - **ITER** [default = 100]: Number of iterations for opitimasion routine. Increase if very noisy curve.  
 - **relPlt** [default = NULL]: Instead of giving a fixed number of points, extend by percent of curve length.    
 - **plotall** [default = TRUE]: If true, plot the fits.  
-- **savePlot** [default = FALSE]: If true, print the plot as picture.  
+- **savePlot** [default = FALSE]: If true, print the plot as picture.
+
+![](example_fit.png)
